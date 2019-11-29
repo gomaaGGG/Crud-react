@@ -1,0 +1,9 @@
+
+ first open power shall 
+firstly  create-react-app crud_app
+
+then cd crud_app
+then open npm start 
+
+
+then to make an list courses must make an a state in paren t 
